@@ -53,11 +53,3 @@
 ![Anti Reference](https://github.com/HippocampusTeam/kruzok-pro-task-0/blob/main/imgs/skills.PNG)
 
 12. ***Время получения достижения* бесполезно** и не несет в себе полезной информации. Оставить только дату получения, а лучше в каждом достижении указать период проведения мероприятия.
-
-# Референсы
-
-![Reference](https://downloader.disk.yandex.ru/preview/e95af22e1c4f25ec5b86926c6ec41611bbbd8854ec319981729faefc473a1c36/5f7b9b23/9mb6xP2y295o5Ae2flxeoXZIMufXZRrTiBV2LCS_paMIqE5PLyAhICb3MngwZBiman-Ofyl_xYg-TtlG-y684g==?uid=0&filename=2020-10-05_21-13-23.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=301318645&size=2048x2048)
-![Reference](https://downloader.disk.yandex.ru/preview/7016a3f68e25bef75f226ee18d2d97a4a16e28ffacfb84b8a8b5e04f49b3f553/5f7b9b6f/bc4nyN3t5JFfbprrYUVJamJ-_nXZR8RHdScYRfriocNRP6-cTPDV7mSgXl1l7vaqLFyeqw4ApZZdQUTALkD0QA==?uid=0&filename=2020-10-05_21-14-18.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=301318645&size=2048x2048)
-![Reference](https://i.pinimg.com/564x/b4/95/f9/b495f92de58f658728d6e19aa8e1ba86.jpg)
-
-https://pin.it/50spNyv
